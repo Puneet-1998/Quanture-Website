@@ -1,0 +1,18 @@
+<!-- BBPS (Bharat Bill Payment System) Icon -->
+<!-- TODO: Replace with official NPCI BBPS logo from https://www.npci.org.in/what-we-do/bharat-billpay/product-overview -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" stroke="#F7931E" stroke-width="2" fill="#FEF5E7"/>
+  <!-- Bill/receipt shape -->
+  <rect x="18" y="14" width="28" height="34" rx="3" stroke="#F7931E" stroke-width="2" fill="#fff"/>
+  <!-- Zigzag tear at bottom -->
+  <path d="M18 44l3-2 3 2 3-2 3 2 3-2 3 2 3-2 3 2v4a3 3 0 01-3 3H21a3 3 0 01-3-3v-4z" fill="#FEF5E7" stroke="#F7931E" stroke-width="1.5"/>
+  <!-- Bill text lines -->
+  <path d="M24 22h16" stroke="#1F5AA6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M24 27h12" stroke="#2FA4A9" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M24 31h14" stroke="#2FA4A9" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M24 35h8" stroke="#2FA4A9" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Checkmark badge -->
+  <circle cx="44" cy="40" r="8" fill="#2FA4A9"/>
+  <path d="M40 40l2.5 2.5L47 38" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
